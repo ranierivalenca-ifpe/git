@@ -45,6 +45,8 @@
 -->
 <!-- tocstop -->
 
+{:toc}
+
 # Introduction to Git
 ## What is Git?
 
